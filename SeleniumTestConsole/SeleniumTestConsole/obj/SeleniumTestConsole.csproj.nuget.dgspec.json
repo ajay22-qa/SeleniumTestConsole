@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Ajay\\source\\repos\\SeleniumTestConsole\\SeleniumTestConsole\\SeleniumTestConsole.csproj": {}
+    "D:\\SeleniumConsole\\SeleniumTestConsole\\SeleniumTestConsole\\SeleniumTestConsole\\SeleniumTestConsole.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Ajay\\source\\repos\\SeleniumTestConsole\\SeleniumTestConsole\\SeleniumTestConsole.csproj": {
+    "D:\\SeleniumConsole\\SeleniumTestConsole\\SeleniumTestConsole\\SeleniumTestConsole\\SeleniumTestConsole.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Ajay\\source\\repos\\SeleniumTestConsole\\SeleniumTestConsole\\SeleniumTestConsole.csproj",
+        "projectUniqueName": "D:\\SeleniumConsole\\SeleniumTestConsole\\SeleniumTestConsole\\SeleniumTestConsole\\SeleniumTestConsole.csproj",
         "projectName": "SeleniumTestConsole",
-        "projectPath": "C:\\Users\\Ajay\\source\\repos\\SeleniumTestConsole\\SeleniumTestConsole\\SeleniumTestConsole.csproj",
+        "projectPath": "D:\\SeleniumConsole\\SeleniumTestConsole\\SeleniumTestConsole\\SeleniumTestConsole\\SeleniumTestConsole.csproj",
         "packagesPath": "C:\\Users\\Ajay\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Ajay\\source\\repos\\SeleniumTestConsole\\SeleniumTestConsole\\obj\\",
+        "outputPath": "D:\\SeleniumConsole\\SeleniumTestConsole\\SeleniumTestConsole\\SeleniumTestConsole\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Ajay\\AppData\\Roaming\\NuGet\\NuGet.Config",
