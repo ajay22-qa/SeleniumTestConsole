@@ -3296,11 +3296,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\SeleniumConsole\\SeleniumTestConsole\\SeleniumTestConsole\\SeleniumTestConsole\\SeleniumTestConsole.csproj",
+      "projectUniqueName": "C:\\Users\\Ajay\\OneDrive\\Desktop\\Gitbash\\SeleniumTestConsole\\SeleniumTestConsole\\SeleniumTestConsole\\SeleniumTestConsole.csproj",
       "projectName": "SeleniumTestConsole",
-      "projectPath": "D:\\SeleniumConsole\\SeleniumTestConsole\\SeleniumTestConsole\\SeleniumTestConsole\\SeleniumTestConsole.csproj",
+      "projectPath": "C:\\Users\\Ajay\\OneDrive\\Desktop\\Gitbash\\SeleniumTestConsole\\SeleniumTestConsole\\SeleniumTestConsole\\SeleniumTestConsole.csproj",
       "packagesPath": "C:\\Users\\Ajay\\.nuget\\packages\\",
-      "outputPath": "D:\\SeleniumConsole\\SeleniumTestConsole\\SeleniumTestConsole\\SeleniumTestConsole\\obj\\",
+      "outputPath": "C:\\Users\\Ajay\\OneDrive\\Desktop\\Gitbash\\SeleniumTestConsole\\SeleniumTestConsole\\SeleniumTestConsole\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Ajay\\AppData\\Roaming\\NuGet\\NuGet.Config",
